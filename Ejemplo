@@ -194,10 +194,10 @@ color:white;
 </span> </div>
 
     <!-- PORTADA -->
-<section class="hero"> <div class="container hero-content"><h1 class="display-4 fw-bold"> C.U Temascaltepec <p>PLANTEL VALLE DE BRAVO </h1>
+<section class="hero"> <div class="container hero-content"><h1 class="display-4 fw-bold"> C.U Temascaltepec <p> </h1>
    <div class="text-center">
 
-  <p class="lead"> Educación Media Superior </p>
+  <p class="lead"> Educación Superior </p>
 <a href="#" class="btn btn-warning btn-lg"> #SomosPotros </a> </div> </section>
     
 <!-- CARRUSEL  IMAGENES...............................................................-->
